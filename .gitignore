@@ -1,3 +1,10 @@
 .venv
 .env
 __pycache__/
+calculator/_*
+calculator/calculator.py
+calculator/explore.py
+calculator/find.py
+calculator/list_files.py
+calculator/out.txt
+calculator/test.py
